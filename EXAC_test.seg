@@ -1,3 +1,4 @@
-Sample  Chromosome  Start Position  End Position  Frequency
-AIBG	10  58864865  5885654 3
+GeneName  Chromosome  Start Position  End Position  Frequency
+AIBG	10  58864865  58884865  3
+TEST	10	58884866	58894866	-10
 
