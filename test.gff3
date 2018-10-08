@@ -1,4 +1,4 @@
-1 . mRNA            13000  90000  .  +  .  Name=sonichedgehog
-1 . exon            13000  15000  .  +  .  Name=mrna0001
-1 . exon            10500  15000  .  +  .  Name=mrna0001
-
+chr1	.	copy_number_variation_region	565433	1285228	.	-	.	ID=1;Name=MIR6723;variant_type=CNV;Amplication_Freq=0.777055;Deletion_Freq=4.26432;syn2=ncRNA
+chr1	.	copy_number_variation_region	565433	1285228	.	-	.	ID=2;Name=OR4F16;variant_type=CNV;Amplication_Freq=0.777055;Deletion_Freq=4.26432;syn2=protein-coding
+chr1	.	copy_number_variation_region	565433	1285228	.	-	.	ID=3;Name=OR4F29;variant_type=CNV;Amplication_Freq=0.777055;Deletion_Freq=4.26432;syn2=protein-coding
+chr1	.	copy_number_variation_region	565433	1285228	.	-	.	ID=4;Name=OR4F3;variant_type=CNV;Amplication_Freq=0.777055;Deletion_Freq=4.26432;syn2=protein-coding
